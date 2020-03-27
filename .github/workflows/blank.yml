@@ -32,5 +32,5 @@ jobs:
         echo Add other actions to build,
         echo test, and deploy your project.
     - name: GitHub CODEOWNERS Validator
-      uses: mszostok/codeowners-validator@v0.4.2
+      uses: mszostok/codeowners-validator@v0.4.3
 
