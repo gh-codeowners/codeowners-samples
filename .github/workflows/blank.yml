@@ -33,4 +33,5 @@ jobs:
         echo test, and deploy your project.
     - name: GitHub CODEOWNERS Validatord
       uses: mszostok/codeowners-validator@canary
-
+      env:
+        INPUT_GITHUB_ACCESS_TOKEN: ${{ secrets.GITHUB_TOKEN }}
