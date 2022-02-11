@@ -1,1 +1,2 @@
 pico bello
+Check if GitHub compare assignments are case-insensitive
