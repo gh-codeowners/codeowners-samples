@@ -10,4 +10,4 @@
 /some/other/maybe/awesome/file.txt @gh-codeowners/Vikings @gh-cOdeownErs/A-TeaM
 /some/other/maybe/awesome/answer.txt  @gh-codeowners/maniacs @gh-codeowners/a-team @gh-codeowners/all-stars
 
-*.md @ghost
+*.md @ghost 2
