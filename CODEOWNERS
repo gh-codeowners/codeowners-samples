@@ -12,4 +12,4 @@
 /some/other/maybe/awesome/file.txt @gh-codeowners/Amigos
 /some/other/maybe/awesome/answer.txt  @gh-codeowners/maniacs @gh-codeowners/a-team @gh-codeowners/all-stars
 
-*.md @ghost @dd
+*.md @ghost @dd dd
